@@ -1,0 +1,96 @@
+---
+layout: default
+---
+<main class="content" role="main">
+  <article class="post">
+    <div class="post-meta">
+      <h1 class="post-title">{{ page.title }}</h1>
+    </div>
+
+    <section class="post-content">
+      <a name="topofpage"></a>
+      {{content}}
+    </section>
+    <footer class="post-footer">
+      <section class="share">
+        <a class="icon" href="http://service.weibo.com/share/share.php?url=http%3A%2F%2Fopen.weibo.com%2Fsharebutton&type=button&language=zh_cn&title={{page.title | cgi_escape}} {{ site.url }}{{ page.id }}&searchPic=false&style=number#_loginLayer_1501906184207" target="_blank">
+          Share on
+          {% include icon-twitter.html %}
+        </a>
+      </section>
+    </footer>
+    <noscript>Please enable JavaScript to view the comment form powered by <a href="https://commentit.io/">Comm(ent|it)</a></noscript>
+<div id="commentit"></div>
+<script type="text/javascript">
+  /** CONFIGURATION VARIABLES **/
+  var commentitUsername = 'tvvocold';
+  var commentitRepo = 'tvvocold/tvvocold.github.io';
+  var commentitPath = '{{ page.path }}';
+
+  /** DON'T EDIT FOLLOWING LINES **/
+  (function() {
+      var commentit = document.createElement('script');
+      commentit.type = 'text/javascript';
+      commentit.async = true;
+      commentit.src = 'https://commentit.io/static/embed/dist/commentit.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(commentit);
+  })();
+</script>
+    {%if page.comments %}
+  {% assign sorted_comments = (page.comments | sort: 'date') %}
+{% endif %}
+{% for c in sorted_comments %}
+  <div class="media">
+    <div class="media-left">
+      <img src="{{ c.author.picture }}" alt="{{ c.author.displayName}}" height="73" width="73">
+    </div>
+    <div class="media-body">
+      <p class="text-muted">
+        <a href="{{ c.author.url }}">{{ c.author.displayName }}</a>
+        on {{ c.date | date_to_string }}
+      </p>
+      <p>{{ c.content | newline_to_br }}</p>
+    </div>
+  </div>
+{% else %}
+  There are no comments on this post.
+{% endfor %}
+    <div class="bottom-teaser cf">
+      <div class="isLeft">
+        <h5 class="index-headline featured"><span>Written by</span></h5>
+        <section class="author">
+          <a href="/"><div class="author-image"></div></a>
+          <h4><a href="/about">Ray</a></h4>
+          <p class="bio">{{site.bio}}</p>
+
+          <p>
+            <span>
+              {% if site.github_username %}
+                {% include icon-github.html username=site.github_username %}
+              {% endif %}
+            </span>
+
+            <span>
+              {% if site.twitter_username %}
+                {% include icon-twitter.html username=site.twitter_username %}
+              {% endif %}
+            </span>
+          </p>
+          <hr>
+          <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
+        </section>
+      </div>
+      <div class="isRight">
+        <h5 class="index-headline featured"><span>Powered by</span></h5>
+        <footer class="site-footer">
+          <section class="poweredby">Proudly published with <a href="http://jekyllrb.com"> Jekyll</a> and <a href="https://github.com/ageitgey/amplify">Amplify</a></section>
+          <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> You should subscribe to my feed.</span></a>
+          <div class="inner">
+            <section class="copyright">All content copyright <a href="mailto:{{ site.email}}">{{site.name}}</a> &copy; {{ site.time | date: '%Y' }}<br>All rights reserved.</section>
+          </div>
+        </footer>
+      </div>
+    </div>
+  </article>
+</main>
+
