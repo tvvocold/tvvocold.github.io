@@ -24,7 +24,7 @@ Growth Hacker，[Fedora 中文社区网站](https://www.fdzh.org) 创办者，[a
 
 #### Digital footprint：
 
-GPG: [https://keybase.io/tvvocold](https://keybase.io/tvvocold)
+PGP: [https://keybase.io/tvvocold](https://keybase.io/tvvocold)
 
 GitHub: [https://github.com/tvvocold](https://github.com/tvvocold)
 
