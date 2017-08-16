@@ -6,7 +6,7 @@ permalink: /about/
 
 Ray，男，1992 年生；）
 
-Growth Hacker，[Fedora 中文社区网站](https://www.fdzh.org) 创办者，[argüman 中文站](https://ch.arguman.org) 维护者，前 [CODING](https://coding.net/about) 雇员，创意工作者，细节强迫症，终身学习者，热衷于产品、用户、创业、计算广告，互联网表情文化，金融市场等领域的学习研究。
+[Fedora 中文社区网站](https://www.fdzh.org) 创办者，[argüman 中文站](https://ch.arguman.org) 维护者，前 [CODING](https://coding.net/about) 雇员，Growth Hacker，产品经理，细节强迫症，终身学习者，热衷于产品、用户、创业、计算广告，互联网表情文化，金融市场等领域的学习研究。
 
 #### 爱好：
 
