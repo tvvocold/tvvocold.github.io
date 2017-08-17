@@ -17,7 +17,6 @@ title: 什么是好的产品
 社区 | reddit |
 博客 | Medium|
 在线教育 | Coursera |
-电商 | 网易严选 |
 视频 | Netflix，腾讯视频 |
 社交 | 微信 |
 
@@ -30,7 +29,7 @@ title: 什么是好的产品
 
 #### 好的产品更注重用户体验
 
-不易用的产品常常因为用户上手难度大，流失率高无法做大。好产品是可以上手即用的低门槛产品，如 Google，Chrome，微信，iPhone。此外 Enjoyable 也非常重要，用户可能会因为某产品功能购买服务，但长期留下用户的是其体验。Apple 的成功离不开其 design driven 模式，一流的用户体验设计带来更高的用户忠实度。Google 的 [核心价值观](https://www.google.com/intl/en/about/philosophy.html)：Focus on the user and all else will follow (以用户为中心，其他一切水到渠成)，高度重视用户需求及使用体验故大获成功。
+不易用的产品常常因为用户上手难度大，流失率高无法做大。好产品是可以上手即用的低门槛产品，如 Google，Chrome，微信，iPhone。此外 Enjoyable 也非常重要，用户可能会因为某产品功能购买服务，但长期留下用户的是其体验。Apple 的成功离不开其 Design driven 模式，一流的用户体验设计带来更高的用户忠实度。Google 的 [核心价值观](https://www.google.com/intl/en/about/philosophy.html)：Focus on the user and all else will follow (以用户为中心，其他一切水到渠成)，高度重视用户需求及使用体验故大获成功。
 
 #### 好的产品让用户参与
 
