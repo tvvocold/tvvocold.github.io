@@ -4,7 +4,8 @@ title: 什么是好的产品
 ---
 
 > Make something people want. 
--- [《Be good》](http://paulgraham.com/good.html)by Paul Graham
+
+> -- [《Be good》](http://paulgraham.com/good.html)by Paul Graham
 
 要去罗马首先要知道罗马在哪儿，要做出好产品也是如此。在本文中笔者试图从 PM 视角下找出较好的互联网产品的特性，请注意这里的“好”是相对的，这里笔者指的是真正解决了用户某痛点，给用户带来价值，长期时间内市场反映较好，非一夜成名（短期内用户爆发增长但无法持续增长），（与其垂直领域其他类似产品相比）用户量够大或长期持续高速增长，非用户被迫使用的（如钉钉），长期用户留存够佳且使用频率较高，不属于用户在手机空间满时会删掉的产品。
 
