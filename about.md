@@ -32,9 +32,9 @@ Coding: [https://coding.net/u/tvvocold](https://coding.net/u/tvvocold)
 
 Hacker News: [https://news.ycombinator.com/user?id=tvvocold](https://news.ycombinator.com/user?id=tvvocold)
 
-BitCoin 支付或赞助地址: 1L4nE9iU87TvS1SNFHpdXeh5WhHrBTTjQw
+BitCoin 支付或赞助地址: 19s5Tb3gKGdEQf1uXauLmUaLJrnn7k8n28
 
-LiteCoin 支付或赞助地址: LYFGWMN21Gco4U3meKwCAU2f7LmTW7VBAk
+LiteCoin 支付或赞助地址: Lh6psSrayuTA9RRQSdNRGHUrScFNFkYaQ6
 
 Email: ray@fdzh.org
 
