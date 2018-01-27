@@ -18,7 +18,7 @@ Ray，男，1992 年生；）
 - 音乐：李志，窦唯，罗大佑
 - 打球：打篮球，打台球，打网球
 - 游戏：打德扑，搓炉石，打风暴
-- 师从：Benjamin Graham，Charlie Munger，Robert Shiller
+- 师从：Charlie Munger, Robert Shiller, Peter Thiel
 - 投资：比特币，莱特币，A股
 - 其他：看展，看话剧，看新闻
 
