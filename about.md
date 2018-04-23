@@ -4,7 +4,7 @@ title: Ray
 permalink: /about/
 ---
 
-Product Manager，[Fedora 中文社区网站](https://www.fdzh.org) 创办者，[argüman 中文站](https://ch.arguman.org) 维护者，[CODING](https://coding.net/about) Growth Hacker，细节强迫症，热衷于产品、用户、创业、计算广告、互联网表情文化、金融市场等领域的学习研究。
+Product Manager，[Fedora 中文社区网站](https://www.fdzh.org) 创办者，[argüman 中文站](https://ch.arguman.org) 维护者，[CODING](https://coding.net/about) Growth Hacker，[人人都是 PM](http://www.woshipm.com/u/74452) 供稿人。细节强迫症，热衷于产品、用户、创业、计算广告、互联网表情文化、金融市场等领域的学习研究。
 
 #### Interests：
 
@@ -28,9 +28,9 @@ Coding: [https://coding.net/u/tvvocold](https://coding.net/u/tvvocold)
 
 Hacker News: [https://news.ycombinator.com/user?id=tvvocold](https://news.ycombinator.com/user?id=tvvocold)
 
-BitCoin: 19s5Tb3gKGdEQf1uXauLmUaLJrnn7k8n28
+Bitcoin: 19s5Tb3gKGdEQf1uXauLmUaLJrnn7k8n28
 
-LiteCoin: Lh6psSrayuTA9RRQSdNRGHUrScFNFkYaQ6
+Litecoin: Lh6psSrayuTA9RRQSdNRGHUrScFNFkYaQ6
 
 Email: ray@fdzh.org
 
