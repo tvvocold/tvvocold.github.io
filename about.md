@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Ray
+title: Ray Captain
 permalink: /about/
 ---
 
-Product Manager，[Fedora 中文社区网站](https://www.fdzh.org) 创办者，[argüman 中文站](https://ch.arguman.org) 维护者，[CODING](https://coding.net/about) Growth Hacker，[人人都是 PM](http://www.woshipm.com/u/74452) 供稿人。细节强迫症，热衷于产品、用户、创业、计算广告、互联网表情文化、金融市场等领域的学习研究。
+[找到AI](https://zhaodao.ai) 创始人，[Fedora 中文社区网站](https://www.fdzh.org) 创办者，[argüman 中文站](https://ch.arguman.org) 维护者，[CODING](https://coding.net/about) Growth Advisor，[《Startup Playbook》](https://playbook.61803398875.xyz/)译者，[人人都是 PM](http://www.woshipm.com/u/74452) 供稿人。细节强迫症，热衷于产品、用户、创业、计算广告、互联网表情文化、金融市场等领域的学习研究。
 
 #### Interests：
 
@@ -14,9 +14,8 @@ Product Manager，[Fedora 中文社区网站](https://www.fdzh.org) 创办者，
 - 音乐：李志，窦唯，Bob Dylan
 - 打球：篮球，台球，网球
 - 游戏：德扑，炉石，风暴
-- 投资：Bitcoin，Litecoin，A股
 - 师从：Charlie Munger, Robert Shiller, Peter Thiel
-- 其他：看展，看 Paper，看话剧，看新闻
+- 其他：看展，看 Paper，看话剧
 
 #### Digital footprint：
 
@@ -32,7 +31,7 @@ Bitcoin: 19s5Tb3gKGdEQf1uXauLmUaLJrnn7k8n28
 
 Litecoin: Lh6psSrayuTA9RRQSdNRGHUrScFNFkYaQ6
 
-Email: ray@fdzh.org
+Email: ray@zhaodao.ai
 
 
 
