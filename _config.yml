@@ -7,18 +7,17 @@
 
 # Site settings
 title: Dream architect
-email: tvvocold@gmail.com
+email: ray@zhaodao.ai
 description: >
   白天造梦，夜晚做梦，偶尔盗梦
 logo: "/assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tvvocold.github.io" # the base hostname & protocol for your site
-paginate:	5 # The number of posts to show per page on your homepage
+url: "https://0.61803398875.xyz" # the base hostname & protocol for your site
+paginate:	7 # The number of posts to show per page on your homepage
 
 name: 'Ray'
 bio: > 
-  To get what you want, you have to deserve what you want. 
-  The world is not yet a crazy enough place to reward a whole bunch of undeserving people.
+  Put a ding in the universe.
 author_image: "/assets/images/logo.jpg"
 github_username:  tvvocold
 
