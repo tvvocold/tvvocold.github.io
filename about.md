@@ -10,10 +10,10 @@ permalink: /about/
 
 - 书籍：王小波，王晓峰，钱钟书
 - 电影：贾樟柯，姜文，黑泽明
-- 美剧：《South Park》，《Rick and Morty》，《Boardwalk Empire》
-- 音乐：李志，窦唯，Bob Dylan
-- 打球：篮球，台球，网球
-- 游戏：德扑，炉石，风暴
+- 美剧：《Rick and Morty》，《South Park》，《Boardwalk Empire》
+- 音乐：Bob Dylan，George Ezra，窦唯
+- 运动：篮球，台球，网球
+- 游戏：德扑，炉石，围棋
 - 师从：Charlie Munger, Robert Shiller, Peter Thiel
 - 其他：看展，看 Paper，看话剧
 
