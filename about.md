@@ -23,13 +23,9 @@ PGP: [https://keybase.io/tvvocold](https://keybase.io/tvvocold)
 
 GitHub: [https://github.com/tvvocold](https://github.com/tvvocold)
 
-Coding: [https://coding.net/u/tvvocold](https://coding.net/u/tvvocold)
+找到AI: [https://zhaodao.ai/u/ray](https://zhaodao.ai/u/ray)
 
 Hacker News: [https://news.ycombinator.com/user?id=tvvocold](https://news.ycombinator.com/user?id=tvvocold)
-
-Bitcoin: 19s5Tb3gKGdEQf1uXauLmUaLJrnn7k8n28
-
-Litecoin: Lh6psSrayuTA9RRQSdNRGHUrScFNFkYaQ6
 
 Email: ray@zhaodao.ai
 
