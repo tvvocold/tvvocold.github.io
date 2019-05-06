@@ -12,3 +12,5 @@ fields:
 - type: text
   name: title
   label: title
+pages:
+- _posts/2016-08-30-how-coding-coding-coding.md
