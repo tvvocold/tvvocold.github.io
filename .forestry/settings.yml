@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Content
 - type: directory
   path: ''
   label: Pages
@@ -12,8 +14,6 @@ sections:
   exclude: README.md
   templates:
   - page
-- type: heading
-  label: Content
 - type: jekyll-posts
   label: Posts
   create: all
