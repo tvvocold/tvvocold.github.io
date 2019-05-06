@@ -4,11 +4,8 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: README.md
-  label: README
-  match: "**/*"
-  read_only: true
+- type: heading
+  label: Content
 - type: jekyll-pages
   label: Pages
   create: all
@@ -16,6 +13,13 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+- type: heading
+  label: Documentation
+- type: document
+  path: README.md
+  label: README
+  match: "**/*"
+  read_only: true
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
