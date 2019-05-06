@@ -13,6 +13,8 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+  templates:
+  - post
 - type: heading
   label: Documentation
 - type: document
