@@ -12,7 +12,7 @@ description: >
   白天造梦，夜晚做梦，偶尔盗梦
 logo: "/assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://0.61803398875.xyz" # the base hostname & protocol for your site
+url: "https://captainray.blog" # the base hostname & protocol for your site
 paginate:	7 # The number of posts to show per page on your homepage
 
 name: 'Ray'
