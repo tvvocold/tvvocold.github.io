@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《创业剧本》
+title: （译）《创业剧本》
 ---
 作者：[Sam Altman](http://playbook.samaltman.com) · 插图：Gregory Koberger · 译者： [Ray](https://github.com/tvvocold)
 
