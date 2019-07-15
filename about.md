@@ -4,7 +4,7 @@ title: Ray Captain
 permalink: /about/
 ---
 
-[找到AI](https://zhaodao.ai) 创始人，[Fedora 中文社区网站](https://www.fdzh.org) 创办者，[argüman 中文站](https://ch.arguman.org) 维护者，[CODING](https://coding.net) Growth Advisor，[《Startup Playbook》](https://playbook-cn.github.io)译者，[人人都是 PM](http://www.woshipm.com/u/74452) 供稿人。细节强迫症，热衷于产品、用户、创业、计算广告、互联网表情文化、金融市场等领域的学习研究。
+[字节引力](https://bytegravity.ltd) 联合创始人兼 CEO，[Fedora 中文社区网站](https://www.fdzh.org) 联合创办者，[argüman 中文站](https://ch.arguman.org) 联合维护者，[《Startup Playbook》](https://playbook-cn.github.io)译者。细节强迫症，热衷于产品、用户、创业、计算广告、互联网表情文化、金融市场等领域的学习研究。
 
 #### Interests：
 
