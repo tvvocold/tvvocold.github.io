@@ -12,17 +12,20 @@ description: >
   To make the game less imbalanced.
 logo: "/assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://captainray.blog" # the base hostname & protocol for your site
+url: "https://capray.blog" # the base hostname & protocol for your site
 paginate:	7 # The number of posts to show per page on your homepage
 
 name: 'Ray'
-bio: > 
+bio: >
   Put a ding in the universe.
 author_image: "/assets/images/logo.jpg"
 github_username:  tvvocold
 
 # Google Analytics
 analytics_id: "UA-47480129-15"
+
+# Enter your Liker ID to enable LikeCoin button
+liker_id: captray
 
 # Build settings
 markdown: kramdown

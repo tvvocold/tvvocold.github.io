@@ -12,12 +12,13 @@ layout: default
       {{content}}
     </section>
     <footer class="post-footer">
-      <section class="share">
-        <a class="icon" href="http://service.weibo.com/share/share.php?url=http%3A%2F%2Fopen.weibo.com%2Fsharebutton&type=button&language=zh_cn&title={{page.title | cgi_escape}} {{ site.url }}{{ page.id }}&searchPic=false&style=number#_loginLayer_1501906184207" target="_blank">
-          分享到微博
-          {% include icon-twitter.html %}
-        </a>
-      </section>
+      {% if site.liker_id %}
+      <iframe
+        align="middle"
+        style="width: 100%;max-width: 485px;height: 189px;margin: auto;overflow: hidden;display: block;border-width: 0;"
+        src="https://button.like.co/in/embed/{{site.liker_id}}/button?referrer={{ page.url | absolute_url | cgi_escape }}">
+      </iframe>
+      {% endif %}
     </footer>
     <div class="bottom-teaser cf">
       <div class="isLeft">
