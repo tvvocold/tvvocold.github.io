@@ -14,26 +14,10 @@ layout: default
     <footer class="post-footer">
       <section class="share">
         <a class="icon" href="http://service.weibo.com/share/share.php?url=http%3A%2F%2Fopen.weibo.com%2Fsharebutton&type=button&language=zh_cn&title={{page.title | cgi_escape}} {{ site.url }}{{ page.id }}&searchPic=false&style=number#_loginLayer_1501906184207" target="_blank">
-          Share
+          分享到微博
           {% include icon-twitter.html %}
         </a>
       </section>
-      <div id="gitalk-container"></div>
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
-      <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
-      <script>
-        var gitalk = new Gitalk({
-        clientID: 'e52925a95e955c49ddd0',
-        clientSecret: '5cf91af1bd355bc199a5db8edd11a837c10f2b3f',
-        repo: 'tvvocold.github.io',
-        owner: 'tvvocold',
-        admin: ['tvvocold'],
-        id: location.pathname,      // Ensure uniqueness and length less than 50
-        distractionFreeMode: false  // Facebook-like distraction free mode
-        })
-
-        gitalk.render('gitalk-container')
-       </script>
     </footer>
     <div class="bottom-teaser cf">
       <div class="isLeft">
@@ -66,7 +50,7 @@ layout: default
           <section class="poweredby">Proudly published with <a href="http://jekyllrb.com"> Jekyll</a> and <a href="https://github.com/ageitgey/amplify">Amplify</a></section>
           <p>赞赏 Bitcoin: 1NUMEcnxWwmMV96hYwGtTmn6ivZiXpg3hK </p>
           <div class="inner">
-            <section class="copyright">{{ site.time | date: '%Y' }} © All content copyright <a href="mailto:{{ site.email}}">{{site.name}}</a> 🖖 <br><br><iframe width="100%" height="80" frameborder="0" allowtransparency="true" src="https://open.spotify.com/embed?uri=spotify:user:tvvocold:playlist:3tGOiPIzlj1tH1RdwdoSgv&amp;theme=white"></iframe></section>
+            <section class="copyright">{{ site.time | date: '%Y' }} © All content copyright <a href="mailto:{{ site.email}}">{{site.name}}</a> 🖖 <br></section>
           </div>
         </footer>
       </div>
