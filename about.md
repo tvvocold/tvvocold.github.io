@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ray Captain
+title: Captain Ray 
 permalink: /about/
 ---
 
