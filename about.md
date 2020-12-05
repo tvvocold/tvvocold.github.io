@@ -4,7 +4,7 @@ title: Captain Ray
 permalink: /about/
 ---
 
-笔者男，生于 1992 年，专业写/修 Bug 已 5/6 年，系 [字节引力](https://bytegravity.ltd) 联合创始人兼 CEO，公司旗下产品有：[找到 AI](https://zhaodao.ai) 和 [万维广告](https://wwads.cn)， [YC Startup School](https://www.startupschool.org/companies/bytegravity) 2019 届学员，同时笔者也是 [Fedora 中文社区网站](https://www.fdzh.org) 联合创办者，[argüman 中文站](https://ch.arguman.org) 联合维护者，[《Startup Playbook》](https://playbook-cn.github.io)译者。天蝎，INTJ，细节强迫症，热衷于产品、创业、计算广告、互联网表情文化、金融市场等领域的学习研究。
+笔者男，生于 1992 年，专业写/修 Bug 已 5/6 年，系 [字节引力](https://bytegravity.ltd) 联合创始人兼 CEO，公司旗下产品有：[找到 AI](https://zhaodao.ai) 和 [万维广告](https://wwads.cn)， [YC Startup School](https://www.startupschool.org/companies/bytegravity) 2019 届学员，ex-[CODING](https://coding.net) Growth Hacker，同时笔者也是 [Fedora 中文社区网站](https://www.fdzh.org) 联合创办者，[argüman 中文站](https://ch.arguman.org) 联合维护者，[《Startup Playbook》](https://playbook-cn.github.io)译者。天蝎，INTJ，细节强迫症，热衷于产品、创业、计算广告、互联网表情文化、金融市场等领域的学习研究。
 
 #### Interests：
 
