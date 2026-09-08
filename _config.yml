@@ -21,8 +21,6 @@ bio: >
 author_image: "/assets/images/logo.jpg"
 github_username:  tvvocold
 
-# Google Analytics
-analytics_id: "UA-47480129-15"
 
 # Build settings
 markdown: kramdown
