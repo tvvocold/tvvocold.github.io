@@ -1,0 +1,56 @@
+<!-- KaTeX support for LaTeX math expressions -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.css" crossorigin="anonymous">
+
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" crossorigin="anonymous"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    function renderMath() {
+      // 兼容 Kramdown 可能生成的 <script type="math/tex"> 标签
+      document.querySelectorAll('script[type^="math/tex"]').forEach(function(el) {
+        var isDisplay = el.getAttribute('type').indexOf('mode=display') !== -1;
+        var container = document.createElement(isDisplay ? 'div' : 'span');
+        if (isDisplay) {
+          container.className = 'katex-display';
+        }
+        try {
+          katex.render(el.textContent, container, {
+            displayMode: isDisplay,
+            throwOnError: false
+          });
+          el.parentNode.replaceChild(container, el);
+        } catch (err) {
+          console.error(err);
+        }
+      });
+
+      // 渲染标准 LaTeX 定界符（包括 Kramdown 默认输出的 \[ \] 与 \( \)）
+      if (typeof renderMathInElement === "function") {
+        renderMathInElement(document.body, {
+          delimiters: [
+            {left: "$$", right: "$$", display: true},
+            {left: "\\[", right: "\\]", display: true},
+            {left: "\\(", right: "\\)", display: false},
+            {left: "$", right: "$", display: false}
+          ],
+          ignoredTags: ["script", "noscript", "style", "textarea", "pre", "code"],
+          throwOnError: false
+        });
+      }
+    }
+
+    if (typeof renderMathInElement === "function") {
+      renderMath();
+    } else {
+      var checkInterval = setInterval(function() {
+        if (typeof renderMathInElement === "function") {
+          clearInterval(checkInterval);
+          renderMath();
+        }
+      }, 50);
+    }
+  });
+</script>

@@ -7,12 +7,12 @@
 
 # Site settings
 title: Bug Fixer
-email: ray@zhaodao.ai
+email: ray@wwads.cn
 description: >
   To make the game less imbalanced.
 logo: "/assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://capray.blog" # the base hostname & protocol for your site
+url: "https://tvvocold.github.io" # the base hostname & protocol for your site
 paginate:	7 # The number of posts to show per page on your homepage
 
 name: 'Ray'

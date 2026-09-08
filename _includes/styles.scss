@@ -524,3 +524,19 @@ pre {
 .pagination .disabled {
     opacity: 0;
 }
+
+/* KaTeX LaTeX Display Optimization */
+.katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 0.8em 0;
+  margin: 1.2em 0;
+  max-width: 100%;
+  -webkit-overflow-scrolling: touch;
+}
+
+.katex {
+  font-size: 1.05em;
+  text-rendering: auto;
+}
+
