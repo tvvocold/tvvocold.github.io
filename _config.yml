@@ -24,9 +24,6 @@ github_username:  tvvocold
 # Google Analytics
 analytics_id: "UA-47480129-15"
 
-# Enter your Liker ID to enable LikeCoin button
-liker_id: captray
-
 # Build settings
 markdown: kramdown
 
